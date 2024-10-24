@@ -1,0 +1,19 @@
+
+
+Server Response to HeartBeat:
+'HelloHello'
+
+Server Response to HeartBeat:
+'HelloHelloUserName=John, Password=John123, CreditCard=987521345, BankPassword:j@#$ty, addr:New Delhi, fbPass=refw#4rd, UserName=Alex, '
+
+Server Response to HeartBeat:
+'HelloHello'
+
+Server Response to HeartBeat:
+'HelloHelloUserName=John, Password=John123, CreditCard=987521345, BankPassword:j@#$ty, addr:New Delhi, '
+
+Server Response to HeartBeat:
+'HelloHello'
+
+Server Response to HeartBeat:
+'HelloHelloUserName=John, Password=John123, CreditCard=987521345, BankPassword:j@#$ty, addr:New Delhi, fbPass=refw#4rd, UserNa'
